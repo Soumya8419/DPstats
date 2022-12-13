@@ -1,7 +1,7 @@
 
 <script>
 import DemoGrid from './Grid.vue'
-import userData from '/home/roy/S2P/demoproj/src/dp.json'
+import userData from './dp.json'
 export default {
   components: {
     DemoGrid
